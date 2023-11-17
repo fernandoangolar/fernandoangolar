@@ -29,7 +29,7 @@
 
   #
 
-<p><img height="180px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoangolar&show_icons=true&locale=en&layout=compact&theme=onedark" alt="nill-pixel" /></p>
+<p><img height="180px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoangolar&show_icons=true&locale=en&layout=compact&theme=onedark" alt="fernandoangolar" /></p>
 
 <p>&nbsp;<img height="180px"  align="center" src="https://github-readme-stats.vercel.app/api?username=fernandoangolar&show_icons=true&locale=en&theme=onedark" alt="nill-pixel" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandoangolar&&theme=onedark" alt="Nill" /></p>
