@@ -13,7 +13,7 @@
 
 #
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoMiranda01&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoMiranda01&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GustavoMiranda01&theme=nord_dark) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoMiranda01&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GustavoMiranda01&theme=nord_dark) |
   #
 
 <p><img height="180px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoangolar&show_icons=true&locale=en&layout=compact&theme=onedark" alt="fernandoangolar" /></p>
