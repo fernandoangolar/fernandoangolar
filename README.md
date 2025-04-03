@@ -22,7 +22,7 @@ Sou um desenvolvedor backend com foco em **Java/Spring Boot** e **Node.js/NestJS
 
 ### 📬 Onde me encontrar?
 
-| [![LinkedIn](https://www.linkedin.com/in/fernando-angolar-692a0423a/)](#) | [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](#)
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fernando-angolar-692a0423a/)  | [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](#)
 
 ---
 
