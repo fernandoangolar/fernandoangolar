@@ -31,12 +31,13 @@ Sou um desenvolvedor backend com foco em **Java/Spring Boot** e **Node.js/NestJS
 
 ---
 
-### 🌟 Um pouco sobre mim  
-- 💡 Sempre em busca de novos desafios e aprendizados  
-- 🎓 Apaixonado por ensinar programação  
-- 🏆 Participando do desafio da Codopoint com a startup **Wundo**  
+### 🌟 Sobre mim
+✨ **Apaixonado por tecnologia e inovação**, estou sempre em busca de novos desafios que me permitam crescer e evoluir como desenvolvedor.
+
+📚 **Compartilhar conhecimento** é algo que me motiva. Acredito que ensinar programação não só fortalece minha base técnica, mas também ajuda a formar novos talentos na área.
+
+🚀 Atualmente, estou imerso no **desafio da Codopoint** com a startup **Wundo**, uma jornada intensa de aprendizado e construção de soluções tecnológicas impactantes.
 
 ---
-
-✍️ *Este README será atualizado conforme eu evoluo na minha jornada como desenvolvedor!*
+✍️ *Este README está em constante evolução, assim como minha jornada como desenvolvedor!*
 
