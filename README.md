@@ -27,9 +27,7 @@ Sou um desenvolvedor backend com foco em **Java/Spring Boot** e **Node.js/NestJS
 ---
 
 ### 📊 Estatísticas do GitHub  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandoangolar&show_icons=true&theme=radical)
-
-### 📊 GitHub Stats & Most Used Languages
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandoangolar&show_icons=true&theme=radical) ### 📊 GitHub Stats & Most Used Languages
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoangolar&layout=compact&theme=radical"/>
