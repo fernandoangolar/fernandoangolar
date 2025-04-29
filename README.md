@@ -31,6 +31,13 @@ Sou um desenvolvedor backend com foco em **Java/Spring Boot** e **Node.js/NestJS
 
 ---
 
+### 👣 Visitantes  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fernandoangolar&color=blue&style=flat-square" alt="Profile views"/>
+</p>
+
+---
+
 ### 🌟 Sobre mim
 ✨ **Apaixonado por tecnologia e inovação**, estou sempre em busca de novos desafios que me permitam crescer e evoluir como desenvolvedor.
 
