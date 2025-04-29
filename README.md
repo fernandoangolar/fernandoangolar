@@ -32,7 +32,6 @@ Sou um desenvolvedor backend com foco em **Java/Spring Boot** e **Node.js/NestJS
 ### 📊 GitHub Stats & Most Used Languages
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandoangolar&show_icons=true&theme=radical&hide=prs&hide_rank=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoangolar&layout=compact&theme=radical"/>
 </p>
 
