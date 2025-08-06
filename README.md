@@ -34,20 +34,3 @@ Sou um desenvolvedor backend com foco em **Java/Spring Boot** e **Node.js/NestJS
 
 ---
 
-### 👣 Visitantes  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fernandoangolar&color=blue&style=flat-square" alt="Profile views"/>
-</p>
-
----
-
-### 🌟 Sobre mim
-✨ **Apaixonado por tecnologia e inovação**, estou sempre em busca de novos desafios que me permitam crescer e evoluir como desenvolvedor.
-
-📚 **Compartilhar conhecimento** é algo que me motiva. Acredito que ensinar programação não só fortalece minha base técnica, mas também ajuda a formar novos talentos na área.
-
-🚀 Atualmente, estou imerso no **desafio da Codopoint** com a startup **Wundu**, uma jornada intensa de aprendizado e construção de soluções tecnológicas impactantes.
-
----
-✍️ *Este README está em constante evolução, assim como minha jornada como desenvolvedor!*
-
